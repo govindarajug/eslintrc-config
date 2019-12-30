@@ -39,6 +39,7 @@
         "arrow-spacing": "error",
         "no-var":"error",
         "curly": "error",
+        "brace-style": "error",
         "eol-last": "warn",
         "eqeqeq": "warn",
         "getter-return": "error",
